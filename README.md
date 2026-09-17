@@ -3,7 +3,7 @@
 <h3 align="center">Cybersecurity Professional | Penetration Tester from Cairo, Egypt 🇪🇬</h3>
 
 <p align="center">
-  <a href="https://nader-website.netlify.app/" target="_blank">Portfolio</a> •
+  <a href="https://nader-website.netlify.app/](https://nader-portfolio.kesug.com/" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/nader-hani-0x0/" target="_blank">LinkedIn</a> •
   <a href="mailto:Naderunics@gmail.com">Email</a>
 </p>
